@@ -1,3 +1,5 @@
 {
-	"name": "Hassio Java Add-ons"
+	"name": "Hassio Java Add-ons",
+	"url": "https://github.com/mikehashimoto/hassio-java-addons/wiki",
+	"maintainer": "Michael Hashimoto <mikehashimoto.com@gmail.com>"
 }
