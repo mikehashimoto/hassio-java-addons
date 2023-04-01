@@ -1,0 +1,11 @@
+name: "Java Automations"
+version: "0.0.0"
+slug: "java-automations"
+description: "Home Assistant Add-on to create Java Automations"
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+init: false
